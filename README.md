@@ -1,3 +1,3 @@
-# INTRODUCTION TO OBJECT DETECTION
+# INTRODUCTION TO OBJECT DETECTION WITH OPENCV
 
-Have fun exploring.
+A basic walkthrough of object (face) detection with OpenCV and Python 3.
